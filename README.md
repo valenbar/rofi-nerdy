@@ -1,3 +1,5 @@
+forked to install it on nixos
+
 <h1 align="center">rofi-nerdy</h1>
 
 <p align="center">Nerd font icon selector plugin for rofi</p>
